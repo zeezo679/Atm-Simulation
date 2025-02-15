@@ -1,0 +1,14 @@
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.AssemblyInfoInputs.cache
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.AssemblyInfo.cs
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.csproj.CoreCompileInputs.cache
+C:\Users\ziada\source\repos\Projects\atm_simulation\bin\Debug\net8.0\atm_simulation.exe
+C:\Users\ziada\source\repos\Projects\atm_simulation\bin\Debug\net8.0\atm_simulation.deps.json
+C:\Users\ziada\source\repos\Projects\atm_simulation\bin\Debug\net8.0\atm_simulation.runtimeconfig.json
+C:\Users\ziada\source\repos\Projects\atm_simulation\bin\Debug\net8.0\atm_simulation.dll
+C:\Users\ziada\source\repos\Projects\atm_simulation\bin\Debug\net8.0\atm_simulation.pdb
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.dll
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\refint\atm_simulation.dll
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.pdb
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\atm_simulation.genruntimeconfig.cache
+C:\Users\ziada\source\repos\Projects\atm_simulation\obj\Debug\net8.0\ref\atm_simulation.dll
